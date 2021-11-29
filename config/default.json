@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://brandtrend:brandtrend@brandtrend.ejxfo.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
